@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, Python, Machine Learning, IoT, and Full-Stack Development**
 
-- 📫 How to reach me **kiruthik.kumar@example.com**
+- 📫 How to reach me **m.kiruthikkumar@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/kiruthikkumarm)
 
